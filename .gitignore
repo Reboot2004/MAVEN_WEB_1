@@ -1,0 +1,13 @@
+# Maven specific files
+target/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Logs
+logs/
+
+# IDE specific files
+*.DS_Store
